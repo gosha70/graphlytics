@@ -1,7 +1,8 @@
-# Graphlytic 🚀  
+# Graphlytic <img src="https://github.com/user-attachments/assets/0ace1fe7-ee75-41b7-ab3d-e62ccd24f014" width="50" height="50" />
+
 **Graphlytic** is an intuitive **graph analytics and visualization** tool built for **Neo4j**. It allows users to efficiently explore, query, and analyze complex relationships using Cypher and interactive visualizations.
 
-![Graphlytic Banner](https://your-image-url.com) *(Optional: Add a relevant project image here)*  
+
 
 ## 🌟 Features  
 ✅ **Graph Querying** – Execute Cypher queries to analyze relationships.  
